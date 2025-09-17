@@ -1,0 +1,75 @@
+{
+  "currency": "GBP",
+  "billingPeriod": "Billed annually",
+  "plans": [
+    {
+      "id": "access",
+      "name": "Access",
+      "price": 14.99,
+      "popular": false,
+      "description": "Everything you need to go deeper",
+      "ctaText": "Continue with Access",
+      "features": [
+        "All videos",
+        "New releases", 
+        "Captions",
+        "Continue watching"
+      ]
+    },
+    {
+      "id": "inner-circle",
+      "name": "Inner Circle",
+      "price": 24.99,
+      "popular": true,
+      "description": "For the ultimate superfans",
+      "ctaText": "Join Inner Circle",
+      "features": [
+        "Everything in Access",
+        "Early content drops",
+        "Monthly live Q&A",
+        "Exclusive merch drop"
+      ]
+    }
+  ],
+  "featureComparison": [
+    {
+      "feature": "All videos",
+      "access": true,
+      "innerCircle": true
+    },
+    {
+      "feature": "New releases",
+      "access": true,
+      "innerCircle": true
+    },
+    {
+      "feature": "Captions & continue watching",
+      "access": true,
+      "innerCircle": true
+    },
+    {
+      "feature": "Early access drops",
+      "access": false,
+      "innerCircle": true
+    },
+    {
+      "feature": "Live Q&A (demo)",
+      "access": false,
+      "innerCircle": true
+    },
+    {
+      "feature": "Merch drop (demo)",
+      "access": false,
+      "innerCircle": true
+    },
+    {
+      "feature": "Early-bird Tour Ticket Access",
+      "access": false,
+      "innerCircle": true
+    }
+  ],
+  "legal": {
+    "disclaimer": "Prices include VAT where applicable. Demo only.",
+    "merchClaimCode": "MUSIC2024VIP"
+  }
+}

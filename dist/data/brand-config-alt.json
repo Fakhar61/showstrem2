@@ -1,0 +1,29 @@
+{
+  "brand": {
+    "name": "VaultStreams",
+    "tagline": "Premium content. Exclusive access.",
+    "description": "Dive deep into the creative process with unrestricted access to studio sessions, live performances, and behind-the-scenes moments."
+  },
+  "colors": {
+    "primary": "280 100% 70%",
+    "primaryHover": "280 100% 75%", 
+    "secondary": "45 100% 60%",
+    "accent": "160 100% 50%"
+  },
+  "hero": {
+    "title": "Premium content.",
+    "highlightText": "Exclusive access.",
+    "subtitle": "Unrestricted access to the creative process. Studio sessions, live performances, and stories that shape the music.",
+    "backgroundImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1920",
+    "videoUrl": "",
+    "ctaText": "Get Access",
+    "secondaryCtaText": "Explore Content"
+  },
+  "navigation": {
+    "showLogo": true,
+    "items": [
+      { "label": "Home", "path": "/" },
+      { "label": "Library", "path": "/library" }
+    ]
+  }
+}

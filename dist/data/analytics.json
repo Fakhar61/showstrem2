@@ -1,0 +1,90 @@
+{
+  "summary": {
+    "monthlyActiveViewers": 95127,
+    "dailyActiveViewers": 12043,
+    "totalWatchTimeMinutes": 8127493,
+    "avgSessionLengthMinutes": 23.7,
+    "avgCompletionRate": 63.8
+  },
+  "dailyMetrics": [
+    {"date": "2024-09-01", "viewers": 11234, "watchTimeMinutes": 265890, "sessions": 14567, "completions": 9123},
+    {"date": "2024-09-02", "viewers": 12456, "watchTimeMinutes": 289345, "sessions": 15234, "completions": 9876},
+    {"date": "2024-09-03", "viewers": 10987, "watchTimeMinutes": 267123, "sessions": 13456, "completions": 8765},
+    {"date": "2024-09-04", "viewers": 13678, "watchTimeMinutes": 321456, "sessions": 16789, "completions": 10432},
+    {"date": "2024-09-05", "viewers": 14321, "watchTimeMinutes": 356789, "sessions": 17890, "completions": 11234},
+    {"date": "2024-09-06", "viewers": 15678, "watchTimeMinutes": 389456, "sessions": 19123, "completions": 12345},
+    {"date": "2024-09-07", "viewers": 16234, "watchTimeMinutes": 402890, "sessions": 19876, "completions": 12987},
+    {"date": "2024-09-08", "viewers": 11890, "watchTimeMinutes": 278934, "sessions": 14567, "completions": 9321},
+    {"date": "2024-09-09", "viewers": 12567, "watchTimeMinutes": 298765, "sessions": 15432, "completions": 9876},
+    {"date": "2024-09-10", "viewers": 11234, "watchTimeMinutes": 267890, "sessions": 13789, "completions": 8654},
+    {"date": "2024-09-11", "viewers": 13456, "watchTimeMinutes": 318765, "sessions": 16432, "completions": 10123},
+    {"date": "2024-09-12", "viewers": 14789, "watchTimeMinutes": 367890, "sessions": 18123, "completions": 11567}
+  ],
+  "contentTypeMetrics": {
+    "Studio Sessions": {
+      "views": 28934,
+      "watchTimeMinutes": 2456789,
+      "avgCompletionRate": 61.2,
+      "avgDurationMinutes": 32.4
+    },
+    "Live & Unfiltered": {
+      "views": 34567,
+      "watchTimeMinutes": 3789456,
+      "avgCompletionRate": 67.8,
+      "avgDurationMinutes": 28.9
+    },
+    "Exclusives": {
+      "views": 19876,
+      "watchTimeMinutes": 1567890,
+      "avgCompletionRate": 56.7,
+      "avgDurationMinutes": 25.1
+    },
+    "Archive": {
+      "views": 15643,
+      "watchTimeMinutes": 1234567,
+      "avgCompletionRate": 48.9,
+      "avgDurationMinutes": 18.7
+    }
+  },
+  "deviceMix": {
+    "Mobile": 55.2,
+    "TV": 25.1,
+    "Desktop": 19.7
+  },
+  "countryMix": {
+    "GB": 38.2,
+    "US": 26.8,
+    "DE": 9.7,
+    "FR": 8.1,
+    "AU": 6.3,
+    "Other": 10.9
+  },
+  "timeOfDayHeatmap": [
+    {"hour": 0, "day": "Monday", "starts": 123},
+    {"hour": 1, "day": "Monday", "starts": 89},
+    {"hour": 19, "day": "Monday", "starts": 1234},
+    {"hour": 20, "day": "Monday", "starts": 1567},
+    {"hour": 21, "day": "Monday", "starts": 1789},
+    {"hour": 22, "day": "Monday", "starts": 1456},
+    {"hour": 19, "day": "Friday", "starts": 1678},
+    {"hour": 20, "day": "Friday", "starts": 1890},
+    {"hour": 21, "day": "Friday", "starts": 2123},
+    {"hour": 22, "day": "Friday", "starts": 1876},
+    {"hour": 19, "day": "Saturday", "starts": 1789},
+    {"hour": 20, "day": "Saturday", "starts": 2234},
+    {"hour": 21, "day": "Saturday", "starts": 2456},
+    {"hour": 22, "day": "Saturday", "starts": 2123}
+  ],
+  "topContent": [
+    {"id": "studio-001", "title": "Behind the Sound - Studio Session", "views": 8934, "uniqueViewers": 7234, "completionRate": 68.4, "watchTimeMinutes": 234567},
+    {"id": "live-004", "title": "Live & Unfiltered: New Songs", "views": 12456, "uniqueViewers": 9876, "completionRate": 72.1, "watchTimeMinutes": 356789},
+    {"id": "exclusive-003", "title": "Exclusive Interview: Creative Process", "views": 6789, "uniqueViewers": 5432, "completionRate": 61.3, "watchTimeMinutes": 167890},
+    {"id": "studio-002", "title": "Writing Process Revealed", "views": 5432, "uniqueViewers": 4321, "completionRate": 58.9, "watchTimeMinutes": 145678}
+  ],
+  "cohortRetention": [
+    {"week": "2025-W36", "signups": 1234, "week1": 78.4, "week4": 56.7, "week8": 45.2, "week12": 38.9},
+    {"week": "2025-W35", "signups": 1567, "week1": 79.1, "week4": 58.3, "week8": 46.7, "week12": 39.4},
+    {"week": "2025-W34", "signups": 1345, "week1": 77.2, "week4": 55.1, "week8": 43.8, "week12": 37.2},
+    {"week": "2025-W33", "signups": 1789, "week1": 80.3, "week4": 59.6, "week8": 47.9, "week12": 40.1}
+  ]
+}

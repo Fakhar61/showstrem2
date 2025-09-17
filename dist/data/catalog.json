@@ -1,0 +1,114 @@
+{
+  "content": [
+    {
+      "id": "studio-vault-001",
+      "title": "The Studio Vault",
+      "series": "The Studio Vault",
+      "contentType": "Studio Sessions",
+      "durationSec": 1944,
+      "releaseDate": "2024-08-15",
+      "posterImage": "/images/studio-vault-new.jpg",
+      "backdropImage": "/images/studio-vault-new.jpg",
+      "isPremium": true
+    },
+    {
+      "id": "backstage-lives-001", 
+      "title": "Backstage Lives",
+      "series": "Backstage Lives",
+      "contentType": "Documentary",
+      "durationSec": 2160,
+      "releaseDate": "2024-08-22",
+      "posterImage": "/images/backstage-lives.jpeg",
+      "backdropImage": "/images/backstage-lives.jpeg",
+      "isPremium": true
+    },
+    {
+      "id": "collectors-archive-001",
+      "title": "Collectors Archive", 
+      "series": "Collectors Archive",
+      "contentType": "Archive",
+      "durationSec": 2580,
+      "releaseDate": "2024-09-01",
+      "posterImage": "/images/collectors-archive.jpg",
+      "backdropImage": "/images/collectors-archive.jpg",
+      "isPremium": false
+    },
+    {
+      "id": "glimpse-of-tomorrow-001",
+      "title": "Glimpse of Tomorrow",
+      "series": "Glimpse of Tomorrow", 
+      "contentType": "Future Sounds",
+      "durationSec": 1620,
+      "releaseDate": "2024-08-10",
+      "posterImage": "/images/glimpse-of-tomorrow.jpeg",
+      "backdropImage": "/images/glimpse-of-tomorrow.jpeg",
+      "isPremium": true
+    },
+    {
+      "id": "unseen-on-the-road-001",
+      "title": "Unseen On The Road",
+      "series": "Unseen On The Road",
+      "contentType": "Movie", 
+      "durationSec": 4800,
+      "releaseDate": "2024-08-24",
+      "posterImage": "/images/unseen-on-the-road.jpg",
+      "backdropImage": "/images/unseen-on-the-road.jpg",
+      "isPremium": true
+    },
+    {
+      "id": "raw-first-takes-001",
+      "title": "Raw First Takes",
+      "series": "Raw First Takes",
+      "contentType": "First Takes",
+      "durationSec": 1740,
+      "releaseDate": "2024-09-07",
+      "posterImage": "/images/raw-first-takes-new.png", 
+      "backdropImage": "/images/raw-first-takes-new.png",
+      "isPremium": false
+    },
+    {
+      "id": "rehearsals-riffs-001",
+      "title": "Rehearsals & Riffs",
+      "series": "Rehearsals & Riffs",
+      "contentType": "Documentary",
+      "durationSec": 1380,
+      "releaseDate": "2024-08-05",
+      "posterImage": "/images/rehearsals-riffs.jpeg",
+      "backdropImage": "/images/rehearsals-riffs.jpeg",
+      "isPremium": false
+    },
+    {
+      "id": "tour-bus-confessions-001",
+      "title": "Tour Bus Confessions",
+      "series": "Tour Bus Confessions",
+      "contentType": "Documentary",
+      "durationSec": 1560,
+      "releaseDate": "2024-08-19",
+      "posterImage": "/images/tour-bus-confessions.jpg",
+      "backdropImage": "/images/tour-bus-confessions.jpg",
+      "isPremium": true
+    },
+    {
+      "id": "uncut-encores-001",
+      "title": "Uncut Encores",
+      "series": "Uncut Encores", 
+      "contentType": "Live Performance",
+      "durationSec": 1200,
+      "releaseDate": "2024-09-02",
+      "posterImage": "/images/uncut-encores.jpg",
+      "backdropImage": "/images/uncut-encores.jpg",
+      "isPremium": false
+    },
+    {
+      "id": "private-feed-001",
+      "title": "Private Feed",
+      "series": "Private Feed",
+      "contentType": "Private",
+      "durationSec": 1500,
+      "releaseDate": "2024-09-16",
+      "posterImage": "/images/private-feed.jpeg",
+      "backdropImage": "/images/private-feed.jpeg", 
+      "isPremium": false
+    }
+  ]
+}

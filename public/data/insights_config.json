@@ -1,0 +1,30 @@
+{
+  "cards": {
+    "monthlyActiveViewers": true,
+    "dailyActiveViewers": true, 
+    "totalWatchTime": true,
+    "avgSessionLength": true,
+    "completionRate": true
+  },
+  "charts": {
+    "viewersOverTime": true,
+    "watchTimeByContentType": true,
+    "timeOfDayHeatmap": true,
+    "deviceMix": true,
+    "topCountries": true
+  },
+  "tables": {
+    "topContent": true,
+    "cohortRetention": true
+  },
+  "filters": {
+    "dateRange": true,
+    "contentType": true,
+    "device": true,
+    "country": true
+  },
+  "exports": {
+    "csv": true,
+    "pdf": true
+  }
+}

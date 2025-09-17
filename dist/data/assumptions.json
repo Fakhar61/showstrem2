@@ -1,0 +1,28 @@
+{
+  "subscribers": {
+    "year1": 150000,
+    "year2GrowthRate": 0.05,
+    "accessTierPercentage": 0.65,
+    "innerCircleTierPercentage": 0.35
+  },
+  "pricing": {
+    "accessPriceGBP": 14.99,
+    "innerCirclePriceGBP": 24.99
+  },
+  "costs": {
+    "year1": {
+      "streaming": 5000,
+      "hosting": 6000,
+      "paymentProcessing": 75000,
+      "maintenance": 9450,
+      "licensing": 15000
+    },
+    "year2": {
+      "streaming": 5250,
+      "hosting": 6300,
+      "paymentProcessing": 78750,
+      "maintenance": 9922,
+      "licensing": 15000
+    }
+  }
+}

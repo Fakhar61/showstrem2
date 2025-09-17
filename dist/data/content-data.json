@@ -1,0 +1,248 @@
+{
+  "series": [
+    {
+      "id": "studio-vault",
+      "title": "The Studio Vault",
+      "synopsis": "Raw, unfiltered recording sessions. Behind-the-glass access to the making of music history.",
+      "year": "2024",
+      "genre": "Studio",
+      "type": "Series",
+      "thumbnail": "/images/studio-vault-new.jpg",
+      "isPremium": true,
+      "episodes": [
+        {
+          "id": "sv1",
+          "title": "The Studio Vault",
+          "synopsis": "Raw, unfiltered recording sessions. Behind-the-glass access to the making of music history.",
+          "duration": 1944,
+          "thumbnail": "/images/studio-vault-new.jpg",
+          "captionsUrl": "",
+          "videoUrl": "",
+          "backdropImage": "/images/studio-vault-new.jpg",
+          "posterImage": "/images/studio-vault-new.jpg",
+          "isPremium": true
+        }
+      ]
+    },
+    {
+      "id": "backstage-lives",
+      "title": "Backstage Lives",
+      "synopsis": "Follow the creative chaos and candid moments that happen when the lights go out and the doors close.",
+      "year": "2024",
+      "genre": "Behind The Scenes",
+      "type": "Documentary",
+      "thumbnail": "/images/backstage-lives.jpeg",
+      "isPremium": true,
+      "episodes": [
+        {
+          "id": "bl1",
+          "title": "Backstage Lives",
+          "synopsis": "Follow the creative chaos and candid moments that happen when the lights go out and the doors close.",
+          "duration": 2160,
+          "thumbnail": "/images/backstage-lives.jpeg",
+          "captionsUrl": "",
+          "videoUrl": "",
+          "backdropImage": "/images/backstage-lives.jpeg",
+          "posterImage": "/images/backstage-lives.jpeg",
+          "isPremium": true
+        }
+      ]
+    },
+    {
+      "id": "collectors-archive",
+      "title": "Collectors Archive",
+      "synopsis": "Ultra-rare performances, deep cuts, and long-lost footage pulled straight from the vaults.",
+      "year": "2024",
+      "genre": "Archive",
+      "type": "Series",
+      "thumbnail": "/images/collectors-archive.jpg",
+      "isPremium": false,
+      "episodes": [
+        {
+          "id": "ca1",
+          "title": "Collectors Archive",
+          "synopsis": "Ultra-rare performances, deep cuts, and long-lost footage pulled straight from the vaults.",
+          "duration": 2580,
+          "thumbnail": "/images/collectors-archive.jpg",
+          "captionsUrl": "",
+          "videoUrl": "",
+          "backdropImage": "/images/collectors-archive.jpg",
+          "posterImage": "/images/collectors-archive.jpg",
+          "isPremium": false
+        }
+      ]
+    },
+    {
+      "id": "glimpse-of-tomorrow",
+      "title": "Glimpse of Tomorrow",
+      "synopsis": "Visionary artists share exclusive previews, works-in-progress, and sounds shaping the future.",
+      "year": "2024",
+      "genre": "Future Sounds",
+      "type": "Series",
+      "thumbnail": "/images/glimpse-of-tomorrow.jpeg",
+      "isPremium": true,
+      "episodes": [
+        {
+          "id": "gt1",
+          "title": "Glimpse of Tomorrow",
+          "synopsis": "Visionary artists share exclusive previews, works-in-progress, and sounds shaping the future.",
+          "duration": 1620,
+          "thumbnail": "/images/glimpse-of-tomorrow.jpeg",
+          "captionsUrl": "",
+          "videoUrl": "",
+          "backdropImage": "/images/glimpse-of-tomorrow.jpeg",
+          "posterImage": "/images/glimpse-of-tomorrow.jpeg",
+          "isPremium": true
+        }
+      ]
+    },
+    {
+      "id": "unseen-on-the-road",
+      "title": "Unseen On The Road",
+      "synopsis": "Tour bus confessions, backstage antics, and the road life no one else gets to see.",
+      "year": "2024",
+      "genre": "Tour Documentary",
+      "type": "Movie",
+      "thumbnail": "/images/unseen-on-the-road.jpg",
+      "isPremium": true,
+      "episodes": [
+        {
+          "id": "ur1",
+          "title": "Unseen On The Road",
+          "synopsis": "Tour bus confessions, backstage antics, and the road life no one else gets to see.",
+          "duration": 4800,
+          "thumbnail": "/images/unseen-on-the-road.jpg",
+          "captionsUrl": "",
+          "videoUrl": "",
+          "backdropImage": "/images/unseen-on-the-road.jpg",
+          "posterImage": "/images/unseen-on-the-road.jpg",
+          "isPremium": true
+        }
+      ]
+    },
+    {
+      "id": "raw-first-takes",
+      "title": "Raw First Takes",
+      "synopsis": "The magic of imperfection — first takes, false starts, and the moments that never make it to the record.",
+      "year": "2024",
+      "genre": "First Takes",
+      "type": "Series",
+      "thumbnail": "/images/raw-first-takes-new.png",
+      "isPremium": false,
+      "episodes": [
+        {
+          "id": "rt1",
+          "title": "Raw First Takes",
+          "synopsis": "The magic of imperfection — first takes, false starts, and the moments that never make it to the record.",
+          "duration": 1740,
+          "thumbnail": "/images/raw-first-takes-new.png",
+          "captionsUrl": "",
+          "videoUrl": "",
+          "backdropImage": "/images/raw-first-takes-new.png",
+          "posterImage": "/images/raw-first-takes-new.png",
+          "isPremium": false
+        }
+      ]
+    },
+    {
+      "id": "rehearsals-riffs",
+      "title": "Rehearsals & Riffs",
+      "synopsis": "Strip it back to the rehearsal room — riffs, jams, and raw energy before the polish.",
+      "year": "2024",
+      "genre": "Rehearsals",
+      "type": "Documentary",
+      "thumbnail": "/images/rehearsals-riffs.jpeg",
+      "isPremium": false,
+      "episodes": [
+        {
+          "id": "rr1",
+          "title": "Rehearsals & Riffs",
+          "synopsis": "Strip it back to the rehearsal room — riffs, jams, and raw energy before the polish.",
+          "duration": 1380,
+          "thumbnail": "/images/rehearsals-riffs.jpeg",
+          "captionsUrl": "",
+          "videoUrl": "",
+          "backdropImage": "/images/rehearsals-riffs.jpeg",
+          "posterImage": "/images/rehearsals-riffs.jpeg",
+          "isPremium": false
+        }
+      ]
+    },
+    {
+      "id": "tour-bus-confessions",
+      "title": "Tour Bus Confessions",
+      "synopsis": "Unfiltered stories and behind-the-scenes chaos from the road.",
+      "year": "2024",
+      "genre": "Confessions",
+      "type": "Documentary",
+      "thumbnail": "/images/tour-bus-confessions.jpg",
+      "isPremium": true,
+      "episodes": [
+        {
+          "id": "tc1",
+          "title": "Tour Bus Confessions",
+          "synopsis": "Unfiltered stories and behind-the-scenes chaos from the road.",
+          "duration": 1560,
+          "thumbnail": "/images/tour-bus-confessions.jpg",
+          "captionsUrl": "",
+          "videoUrl": "",
+          "backdropImage": "/images/tour-bus-confessions.jpg",
+          "posterImage": "/images/tour-bus-confessions.jpg",
+          "isPremium": true
+        }
+      ]
+    },
+    {
+      "id": "uncut-encores",
+      "title": "Uncut Encores",
+      "synopsis": "The extended moments after the main set ends. Uncut, unfiltered, and unforgettable.",
+      "year": "2024",
+      "genre": "Live Performance",
+      "type": "Series",
+      "thumbnail": "/images/uncut-encores.jpg",
+      "isPremium": false,
+      "episodes": [
+        {
+          "id": "ue1",
+          "title": "Uncut Encores",
+          "synopsis": "The extended moments after the main set ends. Uncut, unfiltered, and unforgettable.",
+          "duration": 1200,
+          "thumbnail": "/images/uncut-encores.jpg",
+          "captionsUrl": "",
+          "videoUrl": "",
+          "backdropImage": "/images/uncut-encores.jpg",
+          "posterImage": "/images/uncut-encores.jpg",
+          "isPremium": false
+        }
+      ]
+    },
+    {
+      "id": "private-feed",
+      "title": "Private Feed",
+      "synopsis": "Exclusive content curated just for you — personal messages, intimate performances, and behind-the-scenes access.",
+      "year": "2024",
+      "genre": "Private",
+      "type": "Series",
+      "thumbnail": "/images/private-feed.jpeg",
+      "isPremium": false,
+      "episodes": [
+        {
+          "id": "pf1",
+          "title": "Private Feed",
+          "synopsis": "Exclusive content curated just for you — personal messages, intimate performances, and behind-the-scenes access.",
+          "duration": 1500,
+          "thumbnail": "/images/private-feed.jpeg",
+          "captionsUrl": "",
+          "videoUrl": "",
+          "backdropImage": "/images/private-feed.jpeg",
+          "posterImage": "/images/private-feed.jpeg",
+          "isPremium": false
+        }
+      ]
+    }
+  ],
+  "featured": {
+    "seriesId": "studio-vault",
+    "episodeId": "sv1"
+  }
+}

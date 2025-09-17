@@ -1,0 +1,47 @@
+{
+  "objectives": {
+    "growPremiumConversions": {
+      "label": "Grow premium conversions",
+      "weights": {
+        "recentViews": 0.25,
+        "completionRate": 0.20,
+        "recencyBoost": 0.15,
+        "premiumConversionLift": 0.40
+      }
+    },
+    "increaseCompletionRate": {
+      "label": "Increase completion rate", 
+      "weights": {
+        "recentViews": 0.30,
+        "completionRate": 0.50,
+        "recencyBoost": 0.10,
+        "premiumConversionLift": 0.10
+      }
+    },
+    "boostWeeklyWatchTime": {
+      "label": "Boost weekly watch time",
+      "weights": {
+        "recentViews": 0.40,
+        "completionRate": 0.25,
+        "recencyBoost": 0.25,
+        "premiumConversionLift": 0.10
+      }
+    }
+  },
+  "contentTypeMultipliers": {
+    "Studio Sessions": 1.0,
+    "Live & Unfiltered": 1.1, 
+    "Exclusives": 0.9,
+    "Archive": 0.7
+  },
+  "durationBandMultipliers": {
+    "short": {"min": 0, "max": 600, "multiplier": 1.2},
+    "medium": {"min": 600, "max": 1800, "multiplier": 1.0},
+    "long": {"min": 1800, "max": 3600, "multiplier": 0.8}
+  },
+  "confidenceThresholds": {
+    "high": 0.8,
+    "medium": 0.6,
+    "low": 0.0
+  }
+}
